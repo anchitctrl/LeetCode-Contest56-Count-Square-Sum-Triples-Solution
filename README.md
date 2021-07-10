@@ -1,0 +1,1 @@
+# LeetCode-Contest56-Count-Square-Sum-Triples-Solution
